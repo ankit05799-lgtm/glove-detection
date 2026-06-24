@@ -1,0 +1,27 @@
+{
+  "filename": "image1019.jpg",
+  "compliance_status": "COMPLIANT",
+  "compliance_message": "2 gloved hand(s) detected",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.7577,
+      "bbox": [
+        221.52,
+        334.37,
+        296.85,
+        402.82
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.7176,
+      "bbox": [
+        360.24,
+        302.37,
+        405.2,
+        356.43
+      ]
+    }
+  ]
+}

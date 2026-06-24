@@ -1,0 +1,17 @@
+{
+  "filename": "image1264.jpg",
+  "compliance_status": "VIOLATION",
+  "compliance_message": "1 bare hand(s) detected - gloves required",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.2817,
+      "bbox": [
+        254.45,
+        192.79,
+        378.47,
+        283.92
+      ]
+    }
+  ]
+}

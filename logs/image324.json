@@ -1,0 +1,57 @@
+{
+  "filename": "image324.jpg",
+  "compliance_status": "COMPLIANT",
+  "compliance_message": "5 gloved hand(s) detected",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.7131,
+      "bbox": [
+        297.79,
+        420.25,
+        334.53,
+        477.49
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.6819,
+      "bbox": [
+        409.04,
+        436.26,
+        436.66,
+        482.68
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.6705,
+      "bbox": [
+        143.68,
+        366.29,
+        194.21,
+        451.35
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.6594,
+      "bbox": [
+        341.01,
+        437.29,
+        375.34,
+        493.5
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.6082,
+      "bbox": [
+        65.49,
+        375.27,
+        113.72,
+        456.83
+      ]
+    }
+  ]
+}
